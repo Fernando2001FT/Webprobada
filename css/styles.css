@@ -1,0 +1,140 @@
+body{
+    margin: 0%;
+    background-color: #89CFFD;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+}
+
+.perfil{
+    position:relative;
+    padding: 10px 10px;
+    margin: 100px 100px;
+
+
+}
+
+
+.fotoreloj{
+    width: 200px;
+
+}
+
+.cabecera{
+    background-color: #FFF4CF;
+    position: relative;
+    padding-top: 10px;
+    /*padding-bottom: 0px;
+    margin-bottom: 0px;
+    /*font-size: 2em;*/ 
+}
+
+.container-central{
+    margin: 0px;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+    color: #EB5353;
+    line-height: 2;
+    margin: 0;
+}
+h2{
+    font-family: 'Philosopher', sans-serif;
+    font-size: 200%;
+    color: #e1ab0a;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Philosopher', sans-serif;
+    font-size: 100%;
+    color: rgb(226, 129, 45);
+    font-weight: normal;
+}
+.programador{
+font-family: 'Sacramento', cursive;
+font-size:  2.5rem;
+}
+.nombre{
+    margin-top: 0;
+    font-size:  70px;
+  
+}
+
+.delineado{
+    text-decoration:  underline;
+   
+}
+
+.nube1{
+    position: relative;
+    left: 20%;
+
+}
+
+.nube2{
+  position: absolute; 
+  left: 25%; 
+}
+
+.montaña{
+    margin-block-end: 0px;
+}
+
+.habilidades{
+    text-align: center;
+    margin: 100px 100px;
+}
+
+.habilidades-fila{
+    width: 50%;       
+    height: 160px;
+    margin:100px auto 100px;
+  }
+
+.habilidad1{
+    width:25%;
+    float:left;
+    margin-right: 30px;
+}
+
+.habilidad2{
+    width: 25%;
+    width: 120px;
+    float: right;
+    margin-left: 30px;
+}
+
+.habilidades-fila{
+    width: 50%;
+}
+
+.textpie{
+    color: white;
+}
+
+.contacto, .container-inferior{
+    background-color: aquamarine;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.textparrafo{
+    font-family: 'Philosopher', sans-serif;
+    font-size: 100%;
+    color: rgb(0, 0, 0);
+    font-weight: normal;
+    text-align:center;
+}
+.Hola{
+    margin: 0%;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 300%;
+    color: rgb(206, 209, 28);
+}
+.link-pie-pagina {
+    font-family: 'Philosopher', sans-serif;
+    color: #480fcc;
+    text-align: center;
+    margin: 10px;
+}
